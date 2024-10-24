@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{92128906-9dc0-4194-9c52-cce8235fa284}">
+		<property name="assetPath">
+			<value>BattlepassPurchase.ogg</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>4.5519999999999996</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{56c2241a-4fbb-4cb1-88bd-249029d505ce}</destination>
+		</relationship>
+	</object>
+</objects>

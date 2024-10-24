@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{e3081ed9-0cb3-4361-946b-1b06d905fa50}">
+		<property name="assetPath">
+			<value>Mechanical, Lock, Padlock, Open, Close SND20222 1.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>96</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.17371875000000001</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{56c2241a-4fbb-4cb1-88bd-249029d505ce}</destination>
+		</relationship>
+	</object>
+</objects>

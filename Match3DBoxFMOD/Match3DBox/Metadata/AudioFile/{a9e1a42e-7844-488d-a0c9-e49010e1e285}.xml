@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{a9e1a42e-7844-488d-a0c9-e49010e1e285}">
+		<property name="assetPath">
+			<value>FAM_Win_Chimes_Loop.ogg</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>6.0105833333333329</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{56c2241a-4fbb-4cb1-88bd-249029d505ce}</destination>
+		</relationship>
+	</object>
+</objects>

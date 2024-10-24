@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{333f5ad5-ef79-4c72-968e-f788aab12449}">
+		<property name="assetPath">
+			<value>PreplayRew_BeforeAd.ogg</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>3.8017291666666666</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{56c2241a-4fbb-4cb1-88bd-249029d505ce}</destination>
+		</relationship>
+	</object>
+</objects>

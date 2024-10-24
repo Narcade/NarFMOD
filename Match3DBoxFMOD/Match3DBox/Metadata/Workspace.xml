@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="Workspace" id="{6d68f897-a6a6-495c-802a-45a08dcf9c80}">
+		<property name="builtBanksOutputDirectory">
+			<value>../../../FriendsMatch3D/Assets/Audio/Bank</value>
+		</property>
+		<relationship name="masterEventFolder">
+			<destination>{bc9a3363-7aa6-4489-bae1-89e019c11a95}</destination>
+		</relationship>
+		<relationship name="masterTagFolder">
+			<destination>{9376b779-2676-40f8-ba5e-53a1bf6fd999}</destination>
+		</relationship>
+		<relationship name="masterEffectPresetFolder">
+			<destination>{e1cca83f-19fe-4415-8c30-091272709978}</destination>
+		</relationship>
+		<relationship name="masterParameterPresetFolder">
+			<destination>{5974c34d-fd00-4ac4-b760-23d1ead4a7f2}</destination>
+		</relationship>
+		<relationship name="masterBankFolder">
+			<destination>{84af1ab6-44d7-4513-af89-3f5559d64cd2}</destination>
+		</relationship>
+		<relationship name="masterSandboxFolder">
+			<destination>{7335b27d-07a3-4af8-854f-f4d0909ebe0d}</destination>
+		</relationship>
+		<relationship name="masterAssetFolder">
+			<destination>{56c2241a-4fbb-4cb1-88bd-249029d505ce}</destination>
+		</relationship>
+		<relationship name="mixer">
+			<destination>{a76c9fb4-328a-45df-a003-64a3a969e2b1}</destination>
+		</relationship>
+		<relationship name="profilerSessionFolder">
+			<destination>{1a726e83-1ad1-421c-b3e9-bc453c11ab5a}</destination>
+		</relationship>
+		<relationship name="platforms">
+			<destination>{de172155-7bfb-4730-a2a5-e6f40c6cf9e3}</destination>
+		</relationship>
+	</object>
+</objects>
