@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{e232113e-a1d3-41a7-8631-4448ad967cd1}">
+		<property name="assetPath">
+			<value>Lemonade_Machine Hit.ogg</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.67787500000000001</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{e7c1d070-716b-446e-8fa3-1bb48b921117}</destination>
+		</relationship>
+	</object>
+</objects>

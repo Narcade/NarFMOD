@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{c10e752e-9b49-46dd-af44-5c1c026fd48b}">
+		<property name="assetPath">
+			<value>Flowerpot - Destroy.ogg</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{e7c1d070-716b-446e-8fa3-1bb48b921117}</destination>
+		</relationship>
+	</object>
+</objects>

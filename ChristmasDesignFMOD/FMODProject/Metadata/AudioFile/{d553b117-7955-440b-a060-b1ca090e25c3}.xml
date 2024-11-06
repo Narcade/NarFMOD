@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{d553b117-7955-440b-a060-b1ca090e25c3}">
+		<property name="assetPath">
+			<value>WoodenBox_Destroy.ogg</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.43650793650793651</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{e7c1d070-716b-446e-8fa3-1bb48b921117}</destination>
+		</relationship>
+	</object>
+</objects>

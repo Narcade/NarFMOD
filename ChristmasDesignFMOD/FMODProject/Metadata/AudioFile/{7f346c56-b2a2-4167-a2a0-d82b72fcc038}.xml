@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{7f346c56-b2a2-4167-a2a0-d82b72fcc038}">
+		<property name="assetPath">
+			<value>WoodenBox_On-click.ogg</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.40002267573696143</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{e7c1d070-716b-446e-8fa3-1bb48b921117}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="EventFolder" id="{7f82240f-93a9-4709-8f8c-d63e421dcca3}">
+		<property name="name">
+			<value>Merge</value>
+		</property>
+		<relationship name="folder">
+			<destination>{5776a107-adad-47c4-974c-10047e919d06}</destination>
+		</relationship>
+	</object>
+</objects>

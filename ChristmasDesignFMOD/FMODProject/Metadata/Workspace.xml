@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="Workspace" id="{6440142b-5f21-4381-b9c1-de16f0b928c7}">
+		<property name="builtBanksOutputDirectory">
+			<value>../../../ChristmasDesign/Assets/Audio/Bank</value>
+		</property>
+		<relationship name="masterEventFolder">
+			<destination>{cce78045-ce53-492d-a54b-d3ff9c9417c6}</destination>
+		</relationship>
+		<relationship name="masterTagFolder">
+			<destination>{048feaa3-ed3f-4074-b7dc-784049b962b3}</destination>
+		</relationship>
+		<relationship name="masterEffectPresetFolder">
+			<destination>{f81d3746-48fd-486c-93eb-58debc96aa50}</destination>
+		</relationship>
+		<relationship name="masterParameterPresetFolder">
+			<destination>{9a6e1a30-dd4c-4ada-ae75-99e15ecb5a36}</destination>
+		</relationship>
+		<relationship name="masterBankFolder">
+			<destination>{61a144fd-c7d9-424b-8199-5fd2c20a1e93}</destination>
+		</relationship>
+		<relationship name="masterSandboxFolder">
+			<destination>{83f00cc8-12d5-4987-9b06-f9e9fc3db87f}</destination>
+		</relationship>
+		<relationship name="masterAssetFolder">
+			<destination>{e7c1d070-716b-446e-8fa3-1bb48b921117}</destination>
+		</relationship>
+		<relationship name="mixer">
+			<destination>{9686f371-d7b9-4143-8847-6225080dc858}</destination>
+		</relationship>
+		<relationship name="profilerSessionFolder">
+			<destination>{96c18764-25c4-46e4-8caa-32367fbaeb7c}</destination>
+		</relationship>
+		<relationship name="platforms">
+			<destination>{e984efc3-8167-448d-b679-0b79916c9dd9}</destination>
+		</relationship>
+	</object>
+</objects>

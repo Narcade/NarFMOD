@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{710301e5-8029-4c3f-8aa6-e6b0aa9d49f6}">
+		<property name="assetPath">
+			<value>NewSounds/match3_yenisesler/match3_gingerbreadmanrescue.ogg.reapeaks</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{e7c1d070-716b-446e-8fa3-1bb48b921117}</destination>
+		</relationship>
+	</object>
+</objects>

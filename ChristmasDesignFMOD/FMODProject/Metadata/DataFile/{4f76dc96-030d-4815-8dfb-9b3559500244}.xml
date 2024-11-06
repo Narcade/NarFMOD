@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{4f76dc96-030d-4815-8dfb-9b3559500244}">
+		<property name="assetPath">
+			<value>NewSounds/match3_powerupsounds_OGG/.DS_Store</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{e7c1d070-716b-446e-8fa3-1bb48b921117}</destination>
+		</relationship>
+	</object>
+</objects>
